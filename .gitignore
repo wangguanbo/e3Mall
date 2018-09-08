@@ -31,6 +31,7 @@ gradle/
 local.properties
 *.iml
 
+e3-parent/.idea/workspace.xml
 e3-parent/.idea/*
 e3-parent/target/*
 e3-parent/e3-manager-web/target/*

@@ -221,6 +221,7 @@
         <artifactId>zkclient</artifactId>
         <version>${zkclient.version}</version>
       </dependency>
+
       <dependency>
         <groupId>org.apache.activemq</groupId>
         <artifactId>activemq-all</artifactId>
@@ -231,7 +232,6 @@
         <artifactId>freemarker</artifactId>
         <version>${freemarker.version}</version>
       </dependency>
-
     </dependencies>
   </dependencyManagement>
 

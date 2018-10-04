@@ -5,7 +5,6 @@
         <groupId>cn.e3mall</groupId>
         <artifactId>e3-parent</artifactId>
         <version>0.0.1-SNAPSHOT</version>
-        <relativePath>pom.xml</relativePath>
     </parent>
     <artifactId>e3-manager-web</artifactId>
     <packaging>war</packaging>
@@ -13,6 +12,11 @@
         <dependency>
             <groupId>cn.e3mall</groupId>
             <artifactId>e3-manager-interface</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>cn.e3mall</groupId>
+            <artifactId>e3-common</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
         <!-- Spring -->

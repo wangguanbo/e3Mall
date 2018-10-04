@@ -11,6 +11,7 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/e3-manager/e3-manager-pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/e3-common/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

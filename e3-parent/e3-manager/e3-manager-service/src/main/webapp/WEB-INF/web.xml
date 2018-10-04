@@ -5,6 +5,7 @@
          id="WebApp_ID" version="2.5">
 
   <display-name>e3-manager</display-name>
+
   <welcome-file-list>
     <welcome-file>index.jsp</welcome-file>
   </welcome-file-list>
@@ -14,6 +15,7 @@
     <param-name>contextConfigLocation</param-name>
     <param-value>classpath:conf/spring/applicationContext*.xml</param-value>
   </context-param>
+
   <listener>
     <listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
   </listener>

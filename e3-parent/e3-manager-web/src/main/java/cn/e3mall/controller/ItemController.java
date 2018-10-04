@@ -12,7 +12,6 @@ import org.springframework.web.bind.annotation.ResponseBody;
  *
  * @author 商品管理controller
  */
-
 @Controller
 public class ItemController {
 

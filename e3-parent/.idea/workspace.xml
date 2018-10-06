@@ -8,85 +8,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a7a42b4-ecf2-4534-82f2-203a2d0dcf2c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/e3_manager_service_war.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/e3_manager_service_war_exploded.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/e3_manager_web_war.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/e3_manager_web_war_exploded.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/f326bf23-c605-41f0-997f-e57680d0479b.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__c3p0_c3p0_0_9_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_0_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_4_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_4_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_miemiedev_mybatis_paginator_1_2_15.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_1_3_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_net_commons_net_3_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_api_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jstl_jstl_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_32.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_3_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_3_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_3_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_2_8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_2_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_quartz_scheduler_quartz_2_2_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_2_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_4_2_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_2_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_2_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_2_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_2_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_2_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_2_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jms_4_2_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_4_2_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_2_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_2_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_2_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Spring_4_3_16_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/e3-common/src/main/java/cn/e3mall/App.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/e3-common/target/classes/cn/e3mall/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-common/target/e3-common.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-common/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-common/target/surefire-reports/TEST-cn.e3mall.AppTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-common/target/surefire-reports/cn.e3mall.AppTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-common/target/test-classes/cn/e3mall/AppTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/e3-manager-web/e3-manager-web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/e3-manager-web/e3-manager-web.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/e3-manager-web/src/main/java/cn/e3mall/controller/ItemController.java" beforeDir="false" afterPath="$PROJECT_DIR$/e3-manager-web/src/main/java/cn/e3mall/controller/ItemController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/e3-manager-web/src/main/resource/conf/spring/springmvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/e3-manager-web/src/main/resource/conf/spring/springmvc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/e3-manager-web/src/main/webapp/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/e3-manager-web/target/classes/cn/e3mall/controller/ItemController.class" beforeDir="false" afterPath="$PROJECT_DIR$/e3-manager-web/target/classes/cn/e3mall/controller/ItemController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/e3-manager-web/target/classes/conf/spring/springmvc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-dao/e3-manager-dao.iml" beforeDir="false" afterPath="$PROJECT_DIR$/e3-manager/e3-manager-dao/e3-manager-dao.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-dao/target/e3-manager-dao.jar" beforeDir="false" afterPath="$PROJECT_DIR$/e3-manager/e3-manager-dao/target/e3-manager-dao.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-interface/src/main/java/cn/e3mall/service/ItemService.java" beforeDir="false" afterPath="$PROJECT_DIR$/e3-manager/e3-manager-interface/src/main/java/cn/e3mall/service/ItemService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-interface/target/classes/cn/e3mall/service/ItemService.class" beforeDir="false" afterPath="$PROJECT_DIR$/e3-manager/e3-manager-interface/target/classes/cn/e3mall/service/ItemService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-interface/target/e3-manager-interface.jar" beforeDir="false" afterPath="$PROJECT_DIR$/e3-manager/e3-manager-interface/target/e3-manager-interface.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/e3-manager-pojo.jar" beforeDir="false" afterPath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/e3-manager-pojo.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/surefire-reports/TEST-cn.e3mall.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/surefire-reports/TEST-cn.e3mall.AppTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/surefire-reports/cn.e3mall.AppTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/surefire-reports/cn.e3mall.AppTest.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-service/e3-manager-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/e3-manager/e3-manager-service/e3-manager-service.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-service/src/main/java/cn/e3mall/service/impl/ItemServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/e3-manager/e3-manager-service/src/main/java/cn/e3mall/service/impl/ItemServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-service/src/main/resource/conf/mybatis/SqlMapConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/e3-manager/e3-manager-service/src/main/resource/conf/mybatis/SqlMapConfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-service/src/main/resource/conf/spring/applicationContext-service.xml" beforeDir="false" afterPath="$PROJECT_DIR$/e3-manager/e3-manager-service/src/main/resource/conf/spring/applicationContext-service.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-service/target/classes/cn/e3mall/service/impl/ItemServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/e3-manager/e3-manager-service/target/classes/cn/e3mall/service/impl/ItemServiceImpl.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-service/target/classes/conf/db.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-service/target/classes/conf/mybatis/SqlMapConfig.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-service/target/classes/conf/spring/applicationContext-dao.xml" beforeDir="false" />
@@ -651,7 +595,7 @@
     <property name="SearchEverywhereHistoryKey" value="PageDataModel&#9;FILE&#9;file://D:/IdeaWorkspace/YiLiFang/e3-parent/e3-common/src/main/java/cn/e3mall/PageDataModel.java&#10;tbitem&#9;FILE&#9;file://D:/IdeaWorkspace/YiLiFang/e3-parent/e3-manager/e3-manager-pojo/src/main/java/cn/e3mall/pojo/TbItem.java&#10;controller&#9;FILE&#9;file://D:/IdeaWorkspace/YiLiFang/e3-parent/e3-manager-web/src/main/java/cn/e3mall/controller/ItemController.java&#10;db.pro&#9;FILE&#9;file://D:/IdeaWorkspace/YiLiFang/e3-parent/e3-manager/e3-manager-service/src/main/resource/conf/db.properties&#10;db&#9;FILE&#9;file://D:/IdeaWorkspace/YiLiFang/e3-parent/e3-manager/e3-manager-service/src/main/resource/conf/db.properties&#10;itemc&#9;FILE&#9;file://D:/IdeaWorkspace/YiLiFang/e3-parent/e3-manager-web/src/main/java/cn/e3mall/controller/ItemController.java&#10;index&#9;FILE&#9;file://D:/IdeaWorkspace/YiLiFang/e3-parent/e3-manager-web/src/main/webapp/index.jsp&#10;springmv&#9;FILE&#9;file://D:/IdeaWorkspace/YiLiFang/e3-parent/e3-manager-web/src/main/resource/conf/spring/springmvc.xml&#10;db.&#9;FILE&#9;file://D:/IdeaWorkspace/YiLiFang/e3-parent/e3-manager/e3-manager-web/src/main/resource/conf/db.properties&#10;pom.xml&#9;FILE&#9;file://D:/IdeaWorkspace/YiLiFang/e3-parent/e3-manager/e3-manager-dao/pom.xml&#10;App&#9;FILE&#9;file://D:/IdeaWorkspace/YiLiFang/e3-parent/e3-manager/src/main/java/cn/e3mall/App.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538818459967" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538818639380" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="full.screen.before.presentation.mode" value="false" />
@@ -816,12 +760,12 @@
       <workItem from="1537962887085" duration="17000" />
       <workItem from="1537962928508" duration="4000" />
       <workItem from="1538623900666" duration="13572000" />
-      <workItem from="1538783506274" duration="20909000" />
+      <workItem from="1538783506274" duration="21161000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105809000" />
+    <option name="totallyTimeSpent" value="106061000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -853,10 +797,10 @@
       <window_info anchor="bottom" id="TODO" order="7" weight="0.32778355" />
       <window_info anchor="bottom" id="Application Servers" order="8" weight="0.38563535" />
       <window_info anchor="bottom" id="Spring" order="9" weight="0.32882413" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.81367147" visible="true" weight="0.39334026" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.81367147" weight="0.39334026" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.18632856" side_tool="true" weight="0.79292405" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.46097815" />
-      <window_info anchor="bottom" id="Version Control" order="13" weight="0.4865145" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="13" visible="true" weight="0.48595214" />
       <window_info anchor="bottom" id="Messages" order="14" weight="0.62240666" />
       <window_info anchor="bottom" id="Database Console" order="15" weight="0.541103" />
       <window_info anchor="bottom" id="Thumbnails" order="16" weight="0.32928178" />

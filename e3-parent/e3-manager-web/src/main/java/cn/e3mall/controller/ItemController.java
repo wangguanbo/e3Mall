@@ -1,12 +1,11 @@
 package cn.e3mall.controller;
 
+import cn.e3mall.PageDataModel;
 import cn.e3mall.pojo.TbItem;
 import cn.e3mall.service.ItemService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.ResponseBody;
+import org.springframework.web.bind.annotation.*;
 
 /**
  *
@@ -23,4 +22,12 @@ public class ItemController {
     public TbItem getTbItemById(@PathVariable("itemId")  long itemId){
         return itemService.getItemById(itemId);
     }
+
+    @RequestMapping("/item/list")
+    @ResponseBody
+    public PageDataModel tbItemListForJson(@RequestParam("page") int page , @RequestParam("rows") int rows){
+        PageDataModel allTbItemList = itemService.getAllTbItemList(page, rows);
+        return allTbItemList;
+    }
+
 }

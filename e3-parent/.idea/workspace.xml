@@ -8,6 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a7a42b4-ecf2-4534-82f2-203a2d0dcf2c" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/e3-common/src/main/java/cn/e3mall/App.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/e3-common/target/classes/cn/e3mall/App.class" beforeDir="false" />
@@ -26,19 +27,128 @@
       <change beforePath="$PROJECT_DIR$/e3-manager-web/src/main/webapp/index.jsp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/e3-manager-web/target/classes/conf/spring/springmvc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-dao/e3-manager-dao.iml" beforeDir="false" afterPath="$PROJECT_DIR$/e3-manager/e3-manager-dao/e3-manager-dao.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-dao/target/classes/cn/e3mall/mapper/TbContentCategoryMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-dao/target/classes/cn/e3mall/mapper/TbContentCategoryMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-dao/target/classes/cn/e3mall/mapper/TbContentMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-dao/target/classes/cn/e3mall/mapper/TbContentMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-dao/target/classes/cn/e3mall/mapper/TbItemCatMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-dao/target/classes/cn/e3mall/mapper/TbItemCatMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-dao/target/classes/cn/e3mall/mapper/TbItemDescMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-dao/target/classes/cn/e3mall/mapper/TbItemDescMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-dao/target/classes/cn/e3mall/mapper/TbItemMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-dao/target/classes/cn/e3mall/mapper/TbItemMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-dao/target/classes/cn/e3mall/mapper/TbItemParamItemMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-dao/target/classes/cn/e3mall/mapper/TbItemParamItemMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-dao/target/classes/cn/e3mall/mapper/TbItemParamMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-dao/target/classes/cn/e3mall/mapper/TbItemParamMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-dao/target/classes/cn/e3mall/mapper/TbOrderItemMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-dao/target/classes/cn/e3mall/mapper/TbOrderItemMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-dao/target/classes/cn/e3mall/mapper/TbOrderMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-dao/target/classes/cn/e3mall/mapper/TbOrderMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-dao/target/classes/cn/e3mall/mapper/TbOrderShippingMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-dao/target/classes/cn/e3mall/mapper/TbOrderShippingMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-dao/target/classes/cn/e3mall/mapper/TbUserMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-dao/target/classes/cn/e3mall/mapper/TbUserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-dao/target/e3-manager-dao.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-dao/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-dao/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-dao/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-dao/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-dao/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-dao/target/surefire-reports/TEST-cn.e3mall.AppTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-dao/target/surefire-reports/cn.e3mall.AppTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-dao/target/test-classes/cn/e3mall/AppTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-interface/src/main/java/cn/e3mall/service/ItemService.java" beforeDir="false" afterPath="$PROJECT_DIR$/e3-manager/e3-manager-interface/src/main/java/cn/e3mall/service/ItemService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-interface/target/classes/cn/e3mall/service/ItemService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-interface/target/e3-manager-interface.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-interface/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-interface/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-interface/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-interface/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/classes/cn/e3mall/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/classes/cn/e3mall/pojo/TbContent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/classes/cn/e3mall/pojo/TbContentCategory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/classes/cn/e3mall/pojo/TbContentCategoryExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/classes/cn/e3mall/pojo/TbContentCategoryExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/classes/cn/e3mall/pojo/TbContentCategoryExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/classes/cn/e3mall/pojo/TbContentCategoryExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/classes/cn/e3mall/pojo/TbContentExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/classes/cn/e3mall/pojo/TbContentExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/classes/cn/e3mall/pojo/TbContentExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/classes/cn/e3mall/pojo/TbContentExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/classes/cn/e3mall/pojo/TbItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/classes/cn/e3mall/pojo/TbItemCat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/classes/cn/e3mall/pojo/TbItemCatExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/classes/cn/e3mall/pojo/TbItemCatExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/classes/cn/e3mall/pojo/TbItemCatExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/classes/cn/e3mall/pojo/TbItemCatExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/classes/cn/e3mall/pojo/TbItemDesc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/classes/cn/e3mall/pojo/TbItemDescExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/classes/cn/e3mall/pojo/TbItemDescExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/classes/cn/e3mall/pojo/TbItemDescExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/classes/cn/e3mall/pojo/TbItemDescExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/classes/cn/e3mall/pojo/TbItemExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/classes/cn/e3mall/pojo/TbItemExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/classes/cn/e3mall/pojo/TbItemExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/classes/cn/e3mall/pojo/TbItemExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/classes/cn/e3mall/pojo/TbItemParam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/classes/cn/e3mall/pojo/TbItemParamExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/classes/cn/e3mall/pojo/TbItemParamExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/classes/cn/e3mall/pojo/TbItemParamExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/classes/cn/e3mall/pojo/TbItemParamExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/classes/cn/e3mall/pojo/TbItemParamItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/classes/cn/e3mall/pojo/TbItemParamItemExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/classes/cn/e3mall/pojo/TbItemParamItemExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/classes/cn/e3mall/pojo/TbItemParamItemExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/classes/cn/e3mall/pojo/TbItemParamItemExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/classes/cn/e3mall/pojo/TbOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/classes/cn/e3mall/pojo/TbOrderExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/classes/cn/e3mall/pojo/TbOrderExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/classes/cn/e3mall/pojo/TbOrderExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/classes/cn/e3mall/pojo/TbOrderExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/classes/cn/e3mall/pojo/TbOrderItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/classes/cn/e3mall/pojo/TbOrderItemExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/classes/cn/e3mall/pojo/TbOrderItemExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/classes/cn/e3mall/pojo/TbOrderItemExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/classes/cn/e3mall/pojo/TbOrderItemExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/classes/cn/e3mall/pojo/TbOrderShipping.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/classes/cn/e3mall/pojo/TbOrderShippingExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/classes/cn/e3mall/pojo/TbOrderShippingExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/classes/cn/e3mall/pojo/TbOrderShippingExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/classes/cn/e3mall/pojo/TbOrderShippingExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/classes/cn/e3mall/pojo/TbUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/classes/cn/e3mall/pojo/TbUserExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/classes/cn/e3mall/pojo/TbUserExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/classes/cn/e3mall/pojo/TbUserExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/classes/cn/e3mall/pojo/TbUserExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/e3-manager-pojo.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/surefire-reports/TEST-cn.e3mall.AppTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/surefire-reports/cn.e3mall.AppTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/target/test-classes/cn/e3mall/AppTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-service/e3-manager-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/e3-manager/e3-manager-service/e3-manager-service.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-service/src/main/java/cn/e3mall/service/impl/ItemServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/e3-manager/e3-manager-service/src/main/java/cn/e3mall/service/impl/ItemServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-service/src/main/resource/conf/mybatis/SqlMapConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/e3-manager/e3-manager-service/src/main/resource/conf/mybatis/SqlMapConfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-service/src/main/resource/conf/spring/applicationContext-service.xml" beforeDir="false" afterPath="$PROJECT_DIR$/e3-manager/e3-manager-service/src/main/resource/conf/spring/applicationContext-service.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-service/target/classes/cn/e3mall/service/impl/ItemServiceImpl.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-service/target/classes/conf/db.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-service/target/classes/conf/mybatis/SqlMapConfig.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-service/target/classes/conf/spring/applicationContext-dao.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-service/target/classes/conf/spring/applicationContext-service.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-service/target/classes/conf/spring/applicationContext-trans.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-service/target/classes/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-service/target/tomcat/conf/logging.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-service/target/tomcat/conf/tomcat-users.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-service/target/tomcat/conf/web.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/e3-manager/e3-manager-service/target/tomcat/logs/access_log.2018-10-04" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e3-manager/target/test-classes/cn/e3mall/AppTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -595,7 +705,7 @@
     <property name="SearchEverywhereHistoryKey" value="PageDataModel&#9;FILE&#9;file://D:/IdeaWorkspace/YiLiFang/e3-parent/e3-common/src/main/java/cn/e3mall/PageDataModel.java&#10;tbitem&#9;FILE&#9;file://D:/IdeaWorkspace/YiLiFang/e3-parent/e3-manager/e3-manager-pojo/src/main/java/cn/e3mall/pojo/TbItem.java&#10;controller&#9;FILE&#9;file://D:/IdeaWorkspace/YiLiFang/e3-parent/e3-manager-web/src/main/java/cn/e3mall/controller/ItemController.java&#10;db.pro&#9;FILE&#9;file://D:/IdeaWorkspace/YiLiFang/e3-parent/e3-manager/e3-manager-service/src/main/resource/conf/db.properties&#10;db&#9;FILE&#9;file://D:/IdeaWorkspace/YiLiFang/e3-parent/e3-manager/e3-manager-service/src/main/resource/conf/db.properties&#10;itemc&#9;FILE&#9;file://D:/IdeaWorkspace/YiLiFang/e3-parent/e3-manager-web/src/main/java/cn/e3mall/controller/ItemController.java&#10;index&#9;FILE&#9;file://D:/IdeaWorkspace/YiLiFang/e3-parent/e3-manager-web/src/main/webapp/index.jsp&#10;springmv&#9;FILE&#9;file://D:/IdeaWorkspace/YiLiFang/e3-parent/e3-manager-web/src/main/resource/conf/spring/springmvc.xml&#10;db.&#9;FILE&#9;file://D:/IdeaWorkspace/YiLiFang/e3-parent/e3-manager/e3-manager-web/src/main/resource/conf/db.properties&#10;pom.xml&#9;FILE&#9;file://D:/IdeaWorkspace/YiLiFang/e3-parent/e3-manager/e3-manager-dao/pom.xml&#10;App&#9;FILE&#9;file://D:/IdeaWorkspace/YiLiFang/e3-parent/e3-manager/src/main/java/cn/e3mall/App.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538818639380" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538818999213" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="full.screen.before.presentation.mode" value="false" />
@@ -760,12 +870,12 @@
       <workItem from="1537962887085" duration="17000" />
       <workItem from="1537962928508" duration="4000" />
       <workItem from="1538623900666" duration="13572000" />
-      <workItem from="1538783506274" duration="21161000" />
+      <workItem from="1538783506274" duration="21470000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106061000" />
+    <option name="totallyTimeSpent" value="106370000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -778,6 +888,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1874" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.18081588" />
       <window_info id="Structure" order="1" weight="0.24972253" />
@@ -797,10 +908,10 @@
       <window_info anchor="bottom" id="TODO" order="7" weight="0.32778355" />
       <window_info anchor="bottom" id="Application Servers" order="8" weight="0.38563535" />
       <window_info anchor="bottom" id="Spring" order="9" weight="0.32882413" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.81367147" weight="0.39334026" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.81367147" visible="true" weight="0.39334026" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.18632856" side_tool="true" weight="0.79292405" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.46097815" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="13" visible="true" weight="0.48595214" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.48595214" />
       <window_info anchor="bottom" id="Messages" order="14" weight="0.62240666" />
       <window_info anchor="bottom" id="Database Console" order="15" weight="0.541103" />
       <window_info anchor="bottom" id="Thumbnails" order="16" weight="0.32928178" />
